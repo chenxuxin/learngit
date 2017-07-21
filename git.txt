@@ -4,3 +4,6 @@ svn:chenxx 123
 外网：http://huiyugz.xicp.cn:8080
 
 groovy 启动:groovyConsole
+
+
+git管理文件被修改了
