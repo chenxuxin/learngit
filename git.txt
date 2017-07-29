@@ -4,3 +4,8 @@ svn:chenxx 123
 外网：http://huiyugz.xicp.cn:8080
 groovy 启动:groovyConsole
 git管理文件被修改了
+
+
+ Unable to create 'F:/learngit/.git/index.lock': File exists.
+
+无法创建“F：/ learngit /机制/指标。锁：文件存在。 
