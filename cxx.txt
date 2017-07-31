@@ -17,5 +17,7 @@ git status命令可以让我们时刻掌握仓库当前的状态，上面的命�
 git branch命令会列出所有分支，当前分支前面会标一个*号。
 
 然后，我们就可以在dev分支上正常提交，比如对readme.txt做个修改，加上一行：
+Git还会自动提示我们当前master分支比远程的master分支要超前1个提交。
 
+在master分支上把readme.txt文件的最后一行改为：
 
